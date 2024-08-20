@@ -1,16 +1,17 @@
 # news_app
 
-A new Flutter project.
+A feature-rich Flutter news application with real-time updates:
+
+- REST API integration for fresh news content
+- Firebase integration for real-time data handling
+- Advanced state management:
+  - Provider and ChangeNotifier implementation
+- Sleek UI with custom animations
+- Dark and light theme support
+- Responsive design for various device sizes
+- Efficient navigation system
+
+Key technologies: Flutter, Dart, REST API, Firebase, Provider
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![news app output ss](https://github.com/user-attachments/assets/244c4d4b-268d-4c03-909f-3f0b3398d0c9)
